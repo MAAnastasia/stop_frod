@@ -1,0 +1,2 @@
+List blackList = [];
+List whiteList = [];
